@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleChat</string>
+    <string name="message_hint" />
+    <string name="send" />
+    <string name="profile_other" />
+    <string name="profile_me" />
+</resources>
